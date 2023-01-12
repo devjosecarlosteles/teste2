@@ -211,6 +211,10 @@ Usamos _git status_ para ver os estados dos nossos arquivos.
       <td>feat</td>
       <td>Features (novidades no código), novas funcionalidades na aplicação</td>
     </tr>
+    <tr>
+      <td>fix</td>
+      <td>Correção de bugs</td>
+    </tr>
   </tbody>
 </table>
 
