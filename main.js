@@ -1,7 +1,8 @@
 class Pessoa {
   constructor () {
     this.pessoa = {
-      nome: 'José'
+      nome: 'José',
+      idade: 18
     }
   }
 
