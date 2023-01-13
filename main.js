@@ -5,10 +5,8 @@ class Pessoa {
     }
   }
 
-  novaPessoa() {
-    return {
-      nome: 'José'
-    }
+  novaPessoa(nome) {
+    return this.pessoa = { nome }
   }
 
   buscaPessoa() {
