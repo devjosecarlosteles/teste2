@@ -258,6 +258,33 @@ git branch branchname
 git switch branchname
 ```
 
+<table>
+  <thead>
+    <tr>
+      <th>Branch</th>
+      <th>Descrição</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>main</td>
+      <td>Seu ambiente principal</td>
+    </tr>
+    <tr>
+      <td>develop</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>staging</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>homolog</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
 ## Pull
 
 Baixando dados do nosso repositório remoto
